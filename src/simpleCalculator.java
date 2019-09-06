@@ -18,7 +18,7 @@ public class simpleCalculator {
         double entry1;
         double entry2;
         double total;
-        System.out.println(" enter a number >>>>> ");
+        System.out.println(" enter a number >>>>>>>>>>><> ");
         Scanner inputDevice = new Scanner(System.in);
         entry1 = inputDevice.nextDouble();
         System.out.println(" enter another number");
